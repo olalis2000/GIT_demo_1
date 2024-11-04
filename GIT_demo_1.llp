@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+    <General>
+        <att_name>GIT_demo_1</att_name>
+        <att_description></att_description>
+        <att_ip_address>10.168.10.106:25251</att_ip_address>
+        <att_hashcode>0CF320A5-CAB2-4A27-9779-97AA1C20C2A5</att_hashcode>
+        <att_autosave>ON</att_autosave>
+        <att_project_locked>0</att_project_locked>
+        <att_filename>C:\Users\ORTG\Documents\GIT_demo\GIT_demo_1\GIT_demo_1.llp</att_filename>
+    </General>
+    <Optionals>
+        <att_donotask_loadcfg_at_prjopen>0</att_donotask_loadcfg_at_prjopen>
+        <att_matlab_compile_outprocess>OFF</att_matlab_compile_outprocess>
+        <att_donotremind_labviewdeprecated>FALSE</att_donotremind_labviewdeprecated>
+    </Optionals>
+    <Models>
+        <Model>
+            <Path>
+                <Relative>models/Boost_and_Two_Level_Inverter_Sfun/Boost_and_Two_Level_Inverter_IO.slx</Relative>
+                <Absolute>C:/Users/ORTG/Documents/GIT_demo/GIT_demo_1/models/Boost_and_Two_Level_Inverter_Sfun/Boost_and_Two_Level_Inverter_IO.slx</Absolute>
+                <UNC>C:/Users/ORTG/Documents/GIT_demo/GIT_demo_1/models/Boost_and_Two_Level_Inverter_Sfun/Boost_and_Two_Level_Inverter_IO.slx</UNC>
+            </Path>
+        </Model>
+    </Models>
+</Project>
